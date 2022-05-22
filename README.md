@@ -19,8 +19,10 @@ Presenta el uso de:
 
 <p><b>Breve descripcion:</b><br>
 Programa para una distribuidora de equipo de computo, la cual maneja 2 precios<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Si estas dando de alta como un distribuidor, los precios tienen un 10% de descuentos<br>
-&nbsp;&nbsp;&nbsp;&nbsp;-Si eres un cliente normal, los precios son sin descuento<br>
+  <ul>
+    <li>Si estas dando de alta como un distribuidor, los precios tienen un 10% de descuentos</li>
+    <li>Si eres un cliente normal, los precios son sin descuento</li>
+  </ul>
 El programa preguntara al inicio si eres un distribuidor o un cliente normal y despues
 preguntara la cantidad a pagar, debe calcular descuento y el total
 </p>
