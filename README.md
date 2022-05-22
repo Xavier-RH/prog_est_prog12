@@ -1,5 +1,5 @@
 # prog_est_prog12
-<p><b>Autor:</b> Xavier Romero Hernández, <b>Fecha:</b> 10/02/2022 <br>
+<p><b>Autor:</b> Xavier Romero Hernández, <b>Fecha:</b> 14/02/2022 <br>
   <b>Escuela:</b> Universidad del Valle de Mexico <b>Campus</b> Villahermosa<br>
   <b>Materia:</b> Programación Estructrada<br>
 Ciclo: 01/2022</p>
